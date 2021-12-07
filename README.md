@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Queeshy
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning the basics of machine learning
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
