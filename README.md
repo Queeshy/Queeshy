@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Queeshy
+- 👋 Hi, I’m @Kayaan
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning the basics of machine learning
 - 💞️ I’m looking to collaborate on ...
